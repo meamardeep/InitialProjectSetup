@@ -1,0 +1,29 @@
+﻿@model List<GeIdea.Data.AccountModel>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>You are loged in successfully</h2>
+
+<table class="table table-bordered">
+    <tr>
+        <th> Account Id </th>
+        <th> Email</th>
+        <th></th>
+        <th></th>
+    </tr>
+    @{
+        foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.AccountId</td>
+                <td>@item.Email</td>
+                <td><i class="fa fa-pencil"></i><span>Edit</span></td>
+                <td><i class="fa fa-trash"></i><span>Delete</span></td>
+
+            </tr>
+        }
+
+    }
+
+</table>

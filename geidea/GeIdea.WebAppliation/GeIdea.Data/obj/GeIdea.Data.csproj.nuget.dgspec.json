@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\GeIdea\\GeIdea.WebAppliation\\GeIdea.Data\\GeIdea.Data.csproj": {}
+  },
+  "projects": {
+    "E:\\GeIdea\\GeIdea.WebAppliation\\GeIdea.Data\\GeIdea.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\GeIdea\\GeIdea.WebAppliation\\GeIdea.Data\\GeIdea.Data.csproj",
+        "projectName": "GeIdea.Data",
+        "projectPath": "E:\\GeIdea\\GeIdea.WebAppliation\\GeIdea.Data\\GeIdea.Data.csproj",
+        "packagesPath": "C:\\Users\\Lenovo Thinkpad L420\\.nuget\\packages\\",
+        "outputPath": "E:\\GeIdea\\GeIdea.WebAppliation\\GeIdea.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lenovo Thinkpad L420\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            },
+            "Microsoft.AspNetCore.Session": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Twitter.Bootstrap": {
+              "target": "Package",
+              "version": "[3.0.1.1, )"
+            },
+            "jQuery": {
+              "target": "Package",
+              "version": "[3.4.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

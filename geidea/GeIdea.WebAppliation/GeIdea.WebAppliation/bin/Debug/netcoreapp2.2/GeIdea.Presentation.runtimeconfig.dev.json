@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Lenovo Thinkpad L420\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Lenovo Thinkpad L420\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}

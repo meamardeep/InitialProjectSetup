@@ -1,0 +1,34 @@
+﻿<!-- NAVIGATION : This navigation is also responsive-->
+<nav>
+    <!--
+    NOTE: Notice the gaps after each icon usage <i></i>..
+    Please note that these links work a bit different than
+    traditional href="" links. See documentation for details.
+    -->
+
+    <ul id="ulMenu">
+        <li id="liDashboard" is-active-route class="active">
+            <a asp-controller="dashboard" asp-action="index">
+                <i class="fa fa-lg fa-fw fa-dashboard"></i> <span class="menu-item-parent">Dashboard</span>
+            </a>
+        </li>
+
+        <li id="liCases" is-active-route asp-controller="Intel">
+            <a href="#">
+                <i class="fa fa-lg fa-fw fa-briefcase txt-color-blue"></i> <span class="menu-item-parent">Manage Cases</span>
+            </a>
+            <ul id="subMenuUlCases">
+                <li is-active-route asp-controller="Intel" asp-action="AppLayouts">
+                    <a asp-controller="case" asp-action="index" title="Cases">
+                        <i class="fa fa-lg fa-fw  fa-check-circle" style="color:green"></i> <span class="menu-item-parent">Cases</span>
+                    </a>
+                </li>
+                <li is-active-route asp-controller="index" asp-action="Skins">
+                    <a asp-controller="case" asp-action="CaseRequest" title="New Requests">
+                        <i class="fa fa-lg fa-fw  fa-check-circle"></i> <span class="menu-item-parent">New Requests</span>
+                    </a>
+                </li>
+            </ul>
+        </li>
+</ul>
+</nav>

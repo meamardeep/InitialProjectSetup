@@ -1,0 +1,33 @@
+E:\GeIdea.WebAppliation\GeIdea.DataAccess\bin\Debug\netcoreapp2.1\GeIdea.DataAccess.deps.json
+E:\GeIdea.WebAppliation\GeIdea.DataAccess\bin\Debug\netcoreapp2.1\GeIdea.DataAccess.dll
+E:\GeIdea.WebAppliation\GeIdea.DataAccess\obj\Debug\netcoreapp2.1\GeIdea.DataAccess.csprojAssemblyReference.cache
+E:\GeIdea.WebAppliation\GeIdea.DataAccess\obj\Debug\netcoreapp2.1\GeIdea.DataAccess.csproj.CoreCompileInputs.cache
+E:\GeIdea.WebAppliation\GeIdea.DataAccess\obj\Debug\netcoreapp2.1\GeIdea.DataAccess.AssemblyInfoInputs.cache
+E:\GeIdea.WebAppliation\GeIdea.DataAccess\obj\Debug\netcoreapp2.1\GeIdea.DataAccess.AssemblyInfo.cs
+E:\GeIdea.WebAppliation\GeIdea.DataAccess\bin\Debug\netcoreapp2.1\GeIdea.DataAccess.pdb
+E:\GeIdea.WebAppliation\GeIdea.DataAccess\obj\Debug\netcoreapp2.1\GeIdea.DataAccess.dll
+E:\GeIdea.WebAppliation\GeIdea.DataAccess\obj\Debug\netcoreapp2.1\GeIdea.DataAccess.pdb
+E:\GeIdea.WebAppliation\GeIdea.DataAccess\bin\Debug\netcoreapp2.1\GeIdea.DataAccess.runtimeconfig.json
+E:\GeIdea.WebAppliation\GeIdea.DataAccess\bin\Debug\netcoreapp2.1\GeIdea.DataAccess.runtimeconfig.dev.json
+E:\GeIdea\GeIdea.WebAppliation\GeIdea.DataAccess\bin\Debug\netcoreapp2.1\GeIdea.DataAccess.deps.json
+E:\GeIdea\GeIdea.WebAppliation\GeIdea.DataAccess\bin\Debug\netcoreapp2.1\GeIdea.DataAccess.runtimeconfig.json
+E:\GeIdea\GeIdea.WebAppliation\GeIdea.DataAccess\bin\Debug\netcoreapp2.1\GeIdea.DataAccess.runtimeconfig.dev.json
+E:\GeIdea\GeIdea.WebAppliation\GeIdea.DataAccess\bin\Debug\netcoreapp2.1\GeIdea.DataAccess.dll
+E:\GeIdea\GeIdea.WebAppliation\GeIdea.DataAccess\bin\Debug\netcoreapp2.1\GeIdea.DataAccess.pdb
+E:\GeIdea\GeIdea.WebAppliation\GeIdea.DataAccess\obj\Debug\netcoreapp2.1\GeIdea.DataAccess.csprojAssemblyReference.cache
+E:\GeIdea\GeIdea.WebAppliation\GeIdea.DataAccess\obj\Debug\netcoreapp2.1\GeIdea.DataAccess.csproj.CoreCompileInputs.cache
+E:\GeIdea\GeIdea.WebAppliation\GeIdea.DataAccess\obj\Debug\netcoreapp2.1\GeIdea.DataAccess.AssemblyInfoInputs.cache
+E:\GeIdea\GeIdea.WebAppliation\GeIdea.DataAccess\obj\Debug\netcoreapp2.1\GeIdea.DataAccess.AssemblyInfo.cs
+E:\GeIdea\GeIdea.WebAppliation\GeIdea.DataAccess\obj\Debug\netcoreapp2.1\GeIdea.DataAccess.dll
+E:\GeIdea\GeIdea.WebAppliation\GeIdea.DataAccess\obj\Debug\netcoreapp2.1\GeIdea.DataAccess.pdb
+C:\Users\Lenovo Thinkpad L420\Documents\LexGo\GeIdea\GeIdea.WebAppliation\GeIdea.DataAccess\bin\Debug\netcoreapp2.1\GeIdea.DataAccess.deps.json
+C:\Users\Lenovo Thinkpad L420\Documents\LexGo\GeIdea\GeIdea.WebAppliation\GeIdea.DataAccess\bin\Debug\netcoreapp2.1\GeIdea.DataAccess.runtimeconfig.json
+C:\Users\Lenovo Thinkpad L420\Documents\LexGo\GeIdea\GeIdea.WebAppliation\GeIdea.DataAccess\bin\Debug\netcoreapp2.1\GeIdea.DataAccess.runtimeconfig.dev.json
+C:\Users\Lenovo Thinkpad L420\Documents\LexGo\GeIdea\GeIdea.WebAppliation\GeIdea.DataAccess\bin\Debug\netcoreapp2.1\GeIdea.DataAccess.dll
+C:\Users\Lenovo Thinkpad L420\Documents\LexGo\GeIdea\GeIdea.WebAppliation\GeIdea.DataAccess\bin\Debug\netcoreapp2.1\GeIdea.DataAccess.pdb
+C:\Users\Lenovo Thinkpad L420\Documents\LexGo\GeIdea\GeIdea.WebAppliation\GeIdea.DataAccess\obj\Debug\netcoreapp2.1\GeIdea.DataAccess.csprojAssemblyReference.cache
+C:\Users\Lenovo Thinkpad L420\Documents\LexGo\GeIdea\GeIdea.WebAppliation\GeIdea.DataAccess\obj\Debug\netcoreapp2.1\GeIdea.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Thinkpad L420\Documents\LexGo\GeIdea\GeIdea.WebAppliation\GeIdea.DataAccess\obj\Debug\netcoreapp2.1\GeIdea.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Lenovo Thinkpad L420\Documents\LexGo\GeIdea\GeIdea.WebAppliation\GeIdea.DataAccess\obj\Debug\netcoreapp2.1\GeIdea.DataAccess.AssemblyInfo.cs
+C:\Users\Lenovo Thinkpad L420\Documents\LexGo\GeIdea\GeIdea.WebAppliation\GeIdea.DataAccess\obj\Debug\netcoreapp2.1\GeIdea.DataAccess.dll
+C:\Users\Lenovo Thinkpad L420\Documents\LexGo\GeIdea\GeIdea.WebAppliation\GeIdea.DataAccess\obj\Debug\netcoreapp2.1\GeIdea.DataAccess.pdb
