@@ -1,17 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28010.2046
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeIdea.WebAppliation", "GeIdea.WebAppliation\GeIdea.WebAppliation.csproj", "{6BD743AB-56EF-4127-A55F-BEFC3BB35AB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeIdea.Presentation", "GeIdea.WebAppliation\GeIdea.Presentation.csproj", "{6BD743AB-56EF-4127-A55F-BEFC3BB35AB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeIdea.Repository", "GeIdea.Repository\GeIdea.Repository.csproj", "{3C684194-1A64-4226-8E37-79E9F3247AF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeIdea.Repository", "GeIdea.Repository\GeIdea.Repository.csproj", "{3C684194-1A64-4226-8E37-79E9F3247AF0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeIdea.BusinessLogic", "GeIdea.BusinessLogic\GeIdea.BusinessLogic.csproj", "{67D78C3D-512C-45BB-8CA6-3E782619A06E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeIdea.BusinessLogic", "GeIdea.BusinessLogic\GeIdea.BusinessLogic.csproj", "{67D78C3D-512C-45BB-8CA6-3E782619A06E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeIdea.Data", "GeIdea.Data\GeIdea.Data.csproj", "{FC62DB70-7086-4BF9-B3CA-6E1A1314A7DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeIdea.Data", "GeIdea.Data\GeIdea.Data.csproj", "{FC62DB70-7086-4BF9-B3CA-6E1A1314A7DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeIdea.DataAccess", "GeIdea.DataAccess\GeIdea.DataAccess.csproj", "{73635638-1E6C-40EE-B344-CCA4949890C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeIdea.DataAccess", "GeIdea.DataAccess\GeIdea.DataAccess.csproj", "{73635638-1E6C-40EE-B344-CCA4949890C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

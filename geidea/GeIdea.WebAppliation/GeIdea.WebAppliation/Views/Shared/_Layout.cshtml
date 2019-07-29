@@ -17,36 +17,20 @@
     </environment>
 </head>
 <body>
-    <nav class="navbar navbar-inverse navbar-fixed-top">
-        <div class="container">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a asp-area="" asp-controller="Home" asp-action="Index" class="navbar-brand">GeIdea</a>
-            </div>
-            <div class="navbar-collapse collapse">
-                <ul class="nav navbar-nav">
-                    <li><a asp-area="" asp-controller="Home" asp-action="Index">Home</a></li>
-                    <li><a asp-area="" asp-controller="Home" asp-action="About">About</a></li>
-                    <li><a asp-area="" asp-controller="Home" asp-action="Contact">Contact</a></li>
-                </ul>
-            </div>
+    @*@{ await Html.RenderPartialAsync("_Scripts"); }*@
+    @{ await Html.RenderPartialAsync("_Header"); }
+    @{ await Html.RenderPartialAsync("_Navigation"); }
+    <!-- MAIN PANEL -->
+    <div id="main" role="main">
+        <!-- MAIN CONTENT -->
+        <div id="content">
+            @RenderBody()
         </div>
-    </nav>
-
-    <partial name="_CookieConsentPartial" />
-
-    <div class="container body-content">
-        @RenderBody()
-        <hr />
-        <footer>
-            <p>&copy; 2019 - GeIdea.WebAppliation</p>
-        </footer>
+        <!-- END MAIN CONTENT -->
     </div>
+    <!-- END MAIN PANEL -->
+    @{ await Html.RenderPartialAsync("_Footer"); }
+    @*@{ await Html.RenderPartialAsync("_Shortcuts"); }*@
 
     <environment include="Development">
         <script src="~/lib/jquery/dist/jquery.js"></script>

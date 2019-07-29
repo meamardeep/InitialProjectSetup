@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using GeIdea.WebAppliation.Models;
 
-namespace GeIdea.WebAppliation.Controllers
+namespace GeIdea.Presentation.Controllers
 {
     public class HomeController : Controller
     {

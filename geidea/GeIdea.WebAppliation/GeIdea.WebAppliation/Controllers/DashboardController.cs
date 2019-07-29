@@ -5,15 +5,15 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 
-namespace GeIdea.WebAppliation
+namespace GeIdea.Presentation
 {
     public class DashboardController : Controller
     {
-
-        //public DasboardController(IConfiguration configuration)
-        //{
-
-        //}
+       
+        public DashboardController(IConfiguration configuration)
+        {
+           
+        }
         public IActionResult Index()
         {
             return View();

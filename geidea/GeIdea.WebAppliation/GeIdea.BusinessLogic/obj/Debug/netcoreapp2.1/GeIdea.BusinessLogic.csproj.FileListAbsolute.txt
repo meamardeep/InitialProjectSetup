@@ -46,3 +46,19 @@ C:\Users\Lenovo Thinkpad L420\Documents\LexGo\GeIdea\GeIdea.WebAppliation\GeIdea
 C:\Users\Lenovo Thinkpad L420\Documents\LexGo\GeIdea\GeIdea.WebAppliation\GeIdea.BusinessLogic\obj\Debug\netcoreapp2.1\GeIdea.BusinessLogic.csproj.CopyComplete
 C:\Users\Lenovo Thinkpad L420\Documents\LexGo\GeIdea\GeIdea.WebAppliation\GeIdea.BusinessLogic\obj\Debug\netcoreapp2.1\GeIdea.BusinessLogic.dll
 C:\Users\Lenovo Thinkpad L420\Documents\LexGo\GeIdea\GeIdea.WebAppliation\GeIdea.BusinessLogic\obj\Debug\netcoreapp2.1\GeIdea.BusinessLogic.pdb
+E:\MyProject\trunk\geidea\GeIdea.WebAppliation\GeIdea.BusinessLogic\bin\Debug\netcoreapp2.1\GeIdea.BusinessLogic.deps.json
+E:\MyProject\trunk\geidea\GeIdea.WebAppliation\GeIdea.BusinessLogic\bin\Debug\netcoreapp2.1\GeIdea.BusinessLogic.dll
+E:\MyProject\trunk\geidea\GeIdea.WebAppliation\GeIdea.BusinessLogic\bin\Debug\netcoreapp2.1\GeIdea.BusinessLogic.pdb
+E:\MyProject\trunk\geidea\GeIdea.WebAppliation\GeIdea.BusinessLogic\bin\Debug\netcoreapp2.1\GeIdea.Data.dll
+E:\MyProject\trunk\geidea\GeIdea.WebAppliation\GeIdea.BusinessLogic\bin\Debug\netcoreapp2.1\GeIdea.DataAccess.dll
+E:\MyProject\trunk\geidea\GeIdea.WebAppliation\GeIdea.BusinessLogic\bin\Debug\netcoreapp2.1\GeIdea.Repository.dll
+E:\MyProject\trunk\geidea\GeIdea.WebAppliation\GeIdea.BusinessLogic\bin\Debug\netcoreapp2.1\GeIdea.DataAccess.pdb
+E:\MyProject\trunk\geidea\GeIdea.WebAppliation\GeIdea.BusinessLogic\bin\Debug\netcoreapp2.1\GeIdea.Data.pdb
+E:\MyProject\trunk\geidea\GeIdea.WebAppliation\GeIdea.BusinessLogic\bin\Debug\netcoreapp2.1\GeIdea.Repository.pdb
+E:\MyProject\trunk\geidea\GeIdea.WebAppliation\GeIdea.BusinessLogic\obj\Debug\netcoreapp2.1\GeIdea.BusinessLogic.csprojAssemblyReference.cache
+E:\MyProject\trunk\geidea\GeIdea.WebAppliation\GeIdea.BusinessLogic\obj\Debug\netcoreapp2.1\GeIdea.BusinessLogic.csproj.CoreCompileInputs.cache
+E:\MyProject\trunk\geidea\GeIdea.WebAppliation\GeIdea.BusinessLogic\obj\Debug\netcoreapp2.1\GeIdea.BusinessLogic.AssemblyInfoInputs.cache
+E:\MyProject\trunk\geidea\GeIdea.WebAppliation\GeIdea.BusinessLogic\obj\Debug\netcoreapp2.1\GeIdea.BusinessLogic.AssemblyInfo.cs
+E:\MyProject\trunk\geidea\GeIdea.WebAppliation\GeIdea.BusinessLogic\obj\Debug\netcoreapp2.1\GeIdea.BusinessLogic.csproj.CopyComplete
+E:\MyProject\trunk\geidea\GeIdea.WebAppliation\GeIdea.BusinessLogic\obj\Debug\netcoreapp2.1\GeIdea.BusinessLogic.dll
+E:\MyProject\trunk\geidea\GeIdea.WebAppliation\GeIdea.BusinessLogic\obj\Debug\netcoreapp2.1\GeIdea.BusinessLogic.pdb

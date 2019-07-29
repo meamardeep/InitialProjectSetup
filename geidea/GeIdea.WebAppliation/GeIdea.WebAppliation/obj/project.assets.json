@@ -13176,11 +13176,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GeIdea\\GeIdea.WebAppliation\\GeIdea.WebAppliation\\GeIdea.WebAppliation.csproj",
+      "projectUniqueName": "E:\\MyProject\\trunk\\geidea\\GeIdea.WebAppliation\\GeIdea.WebAppliation\\GeIdea.Presentation.csproj",
       "projectName": "GeIdea.Presentation",
-      "projectPath": "E:\\GeIdea\\GeIdea.WebAppliation\\GeIdea.WebAppliation\\GeIdea.WebAppliation.csproj",
+      "projectPath": "E:\\MyProject\\trunk\\geidea\\GeIdea.WebAppliation\\GeIdea.WebAppliation\\GeIdea.Presentation.csproj",
       "packagesPath": "C:\\Users\\Lenovo Thinkpad L420\\.nuget\\packages\\",
-      "outputPath": "E:\\GeIdea\\GeIdea.WebAppliation\\GeIdea.WebAppliation\\obj\\",
+      "outputPath": "E:\\MyProject\\trunk\\geidea\\GeIdea.WebAppliation\\GeIdea.WebAppliation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13199,14 +13199,14 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "E:\\GeIdea\\GeIdea.WebAppliation\\GeIdea.BusinessLogic\\GeIdea.BusinessLogic.csproj": {
-              "projectPath": "E:\\GeIdea\\GeIdea.WebAppliation\\GeIdea.BusinessLogic\\GeIdea.BusinessLogic.csproj"
+            "E:\\MyProject\\trunk\\geidea\\GeIdea.WebAppliation\\GeIdea.BusinessLogic\\GeIdea.BusinessLogic.csproj": {
+              "projectPath": "E:\\MyProject\\trunk\\geidea\\GeIdea.WebAppliation\\GeIdea.BusinessLogic\\GeIdea.BusinessLogic.csproj"
             },
-            "E:\\GeIdea\\GeIdea.WebAppliation\\GeIdea.DataAccess\\GeIdea.DataAccess.csproj": {
-              "projectPath": "E:\\GeIdea\\GeIdea.WebAppliation\\GeIdea.DataAccess\\GeIdea.DataAccess.csproj"
+            "E:\\MyProject\\trunk\\geidea\\GeIdea.WebAppliation\\GeIdea.DataAccess\\GeIdea.DataAccess.csproj": {
+              "projectPath": "E:\\MyProject\\trunk\\geidea\\GeIdea.WebAppliation\\GeIdea.DataAccess\\GeIdea.DataAccess.csproj"
             },
-            "E:\\GeIdea\\GeIdea.WebAppliation\\GeIdea.Data\\GeIdea.Data.csproj": {
-              "projectPath": "E:\\GeIdea\\GeIdea.WebAppliation\\GeIdea.Data\\GeIdea.Data.csproj"
+            "E:\\MyProject\\trunk\\geidea\\GeIdea.WebAppliation\\GeIdea.Data\\GeIdea.Data.csproj": {
+              "projectPath": "E:\\MyProject\\trunk\\geidea\\GeIdea.WebAppliation\\GeIdea.Data\\GeIdea.Data.csproj"
             }
           }
         }

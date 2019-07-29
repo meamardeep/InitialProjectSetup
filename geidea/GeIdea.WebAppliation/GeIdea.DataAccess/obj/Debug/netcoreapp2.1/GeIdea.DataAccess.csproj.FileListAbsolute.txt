@@ -31,3 +31,13 @@ C:\Users\Lenovo Thinkpad L420\Documents\LexGo\GeIdea\GeIdea.WebAppliation\GeIdea
 C:\Users\Lenovo Thinkpad L420\Documents\LexGo\GeIdea\GeIdea.WebAppliation\GeIdea.DataAccess\obj\Debug\netcoreapp2.1\GeIdea.DataAccess.AssemblyInfo.cs
 C:\Users\Lenovo Thinkpad L420\Documents\LexGo\GeIdea\GeIdea.WebAppliation\GeIdea.DataAccess\obj\Debug\netcoreapp2.1\GeIdea.DataAccess.dll
 C:\Users\Lenovo Thinkpad L420\Documents\LexGo\GeIdea\GeIdea.WebAppliation\GeIdea.DataAccess\obj\Debug\netcoreapp2.1\GeIdea.DataAccess.pdb
+E:\MyProject\trunk\geidea\GeIdea.WebAppliation\GeIdea.DataAccess\bin\Debug\netcoreapp2.1\GeIdea.DataAccess.deps.json
+E:\MyProject\trunk\geidea\GeIdea.WebAppliation\GeIdea.DataAccess\bin\Debug\netcoreapp2.1\GeIdea.DataAccess.runtimeconfig.json
+E:\MyProject\trunk\geidea\GeIdea.WebAppliation\GeIdea.DataAccess\bin\Debug\netcoreapp2.1\GeIdea.DataAccess.runtimeconfig.dev.json
+E:\MyProject\trunk\geidea\GeIdea.WebAppliation\GeIdea.DataAccess\bin\Debug\netcoreapp2.1\GeIdea.DataAccess.dll
+E:\MyProject\trunk\geidea\GeIdea.WebAppliation\GeIdea.DataAccess\bin\Debug\netcoreapp2.1\GeIdea.DataAccess.pdb
+E:\MyProject\trunk\geidea\GeIdea.WebAppliation\GeIdea.DataAccess\obj\Debug\netcoreapp2.1\GeIdea.DataAccess.csproj.CoreCompileInputs.cache
+E:\MyProject\trunk\geidea\GeIdea.WebAppliation\GeIdea.DataAccess\obj\Debug\netcoreapp2.1\GeIdea.DataAccess.AssemblyInfoInputs.cache
+E:\MyProject\trunk\geidea\GeIdea.WebAppliation\GeIdea.DataAccess\obj\Debug\netcoreapp2.1\GeIdea.DataAccess.AssemblyInfo.cs
+E:\MyProject\trunk\geidea\GeIdea.WebAppliation\GeIdea.DataAccess\obj\Debug\netcoreapp2.1\GeIdea.DataAccess.dll
+E:\MyProject\trunk\geidea\GeIdea.WebAppliation\GeIdea.DataAccess\obj\Debug\netcoreapp2.1\GeIdea.DataAccess.pdb

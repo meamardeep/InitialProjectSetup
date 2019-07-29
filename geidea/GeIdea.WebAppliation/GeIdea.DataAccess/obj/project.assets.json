@@ -4257,11 +4257,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GeIdea\\GeIdea.WebAppliation\\GeIdea.DataAccess\\GeIdea.DataAccess.csproj",
+      "projectUniqueName": "E:\\MyProject\\trunk\\geidea\\GeIdea.WebAppliation\\GeIdea.DataAccess\\GeIdea.DataAccess.csproj",
       "projectName": "GeIdea.DataAccess",
-      "projectPath": "E:\\GeIdea\\GeIdea.WebAppliation\\GeIdea.DataAccess\\GeIdea.DataAccess.csproj",
+      "projectPath": "E:\\MyProject\\trunk\\geidea\\GeIdea.WebAppliation\\GeIdea.DataAccess\\GeIdea.DataAccess.csproj",
       "packagesPath": "C:\\Users\\Lenovo Thinkpad L420\\.nuget\\packages\\",
-      "outputPath": "E:\\GeIdea\\GeIdea.WebAppliation\\GeIdea.DataAccess\\obj\\",
+      "outputPath": "E:\\MyProject\\trunk\\geidea\\GeIdea.WebAppliation\\GeIdea.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

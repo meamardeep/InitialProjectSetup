@@ -8,12 +8,12 @@ using GeIdea.BusinessLogic;
 using Microsoft.Extensions.Configuration;
 using AutoMapper;
 
-namespace GeIdea.WebAppliation
+namespace GeIdea.Presentation
 {
     public class AccountController : Controller
     {
         private AccountManagement _accountManagement;
-        private readonly IMapper _mapper;
+        //private readonly IMapper _mapper;
         public AccountController(IConfiguration configuration , IMapper mapper)
         {
             _accountManagement = new AccountManagement(configuration,mapper);
@@ -35,7 +35,8 @@ namespace GeIdea.WebAppliation
             AccountModel accountModel = _accountManagement.GetAccount(model.Email, model.Password);
             if (accountModel.AccountId > 0)
             {
-                return RedirectToAction("index", "dashboard");
+                return View("~/Views/Dashboard/Index.cshtml");
+                //return RedirectToAction("index", "dashboard");
             }
             else
             {

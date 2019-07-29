@@ -11,7 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 using System;
 using Microsoft.AspNetCore.Session;
 
-namespace GeIdea.WebAppliation
+namespace GeIdea.Presentation
 {
     public class Startup
     {
@@ -69,7 +69,7 @@ namespace GeIdea.WebAppliation
             {
                 routes.MapRoute(
                     name: "default",
-                    template: "{controller=Account}/{action=Index}/{id?}");
+                    template: "{controller=Dashboard}/{action=Index}/{id?}");
             });
         }
 

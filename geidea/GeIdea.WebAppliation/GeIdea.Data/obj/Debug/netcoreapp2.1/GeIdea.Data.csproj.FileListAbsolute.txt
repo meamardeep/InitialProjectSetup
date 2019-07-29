@@ -25,3 +25,12 @@ C:\Users\Lenovo Thinkpad L420\Documents\LexGo\GeIdea\GeIdea.WebAppliation\GeIdea
 C:\Users\Lenovo Thinkpad L420\Documents\LexGo\GeIdea\GeIdea.WebAppliation\GeIdea.Data\obj\Debug\netcoreapp2.1\GeIdea.Data.AssemblyInfo.cs
 C:\Users\Lenovo Thinkpad L420\Documents\LexGo\GeIdea\GeIdea.WebAppliation\GeIdea.Data\obj\Debug\netcoreapp2.1\GeIdea.Data.dll
 C:\Users\Lenovo Thinkpad L420\Documents\LexGo\GeIdea\GeIdea.WebAppliation\GeIdea.Data\obj\Debug\netcoreapp2.1\GeIdea.Data.pdb
+E:\MyProject\trunk\geidea\GeIdea.WebAppliation\GeIdea.Data\bin\Debug\netcoreapp2.1\GeIdea.Data.deps.json
+E:\MyProject\trunk\geidea\GeIdea.WebAppliation\GeIdea.Data\bin\Debug\netcoreapp2.1\GeIdea.Data.dll
+E:\MyProject\trunk\geidea\GeIdea.WebAppliation\GeIdea.Data\bin\Debug\netcoreapp2.1\GeIdea.Data.pdb
+E:\MyProject\trunk\geidea\GeIdea.WebAppliation\GeIdea.Data\obj\Debug\netcoreapp2.1\GeIdea.Data.csprojAssemblyReference.cache
+E:\MyProject\trunk\geidea\GeIdea.WebAppliation\GeIdea.Data\obj\Debug\netcoreapp2.1\GeIdea.Data.csproj.CoreCompileInputs.cache
+E:\MyProject\trunk\geidea\GeIdea.WebAppliation\GeIdea.Data\obj\Debug\netcoreapp2.1\GeIdea.Data.AssemblyInfoInputs.cache
+E:\MyProject\trunk\geidea\GeIdea.WebAppliation\GeIdea.Data\obj\Debug\netcoreapp2.1\GeIdea.Data.AssemblyInfo.cs
+E:\MyProject\trunk\geidea\GeIdea.WebAppliation\GeIdea.Data\obj\Debug\netcoreapp2.1\GeIdea.Data.dll
+E:\MyProject\trunk\geidea\GeIdea.WebAppliation\GeIdea.Data\obj\Debug\netcoreapp2.1\GeIdea.Data.pdb
